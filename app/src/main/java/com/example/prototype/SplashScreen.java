@@ -10,6 +10,11 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
+/**
+ * @author Alex
+ * trabajando en mejora de la animacion
+ *
+ */
 public class SplashScreen extends AppCompatActivity {
 
     @Override
