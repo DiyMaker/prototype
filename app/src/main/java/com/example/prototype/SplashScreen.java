@@ -12,7 +12,7 @@ import android.widget.ImageView;
 
 /**
  * @author Alex
- * trabajando en mejora de la animacion
+ * trabajando en mejora de la animacion del splash
  *
  */
 public class SplashScreen extends AppCompatActivity {
